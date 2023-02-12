@@ -1,0 +1,12 @@
+.Mui-selected{
+    color: orange!important;;
+}
+.MuiTabs-indicator{
+    background-color: orange!important;
+}
+.light-mode .Mui-selected{
+    color: yellow!important;
+}
+.light-mode .MuiTabs-indicator{
+    background-color: yellow!important;
+}
